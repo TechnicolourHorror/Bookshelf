@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  Bookshelf
+  <title>Bookshelf<title>
 </head>
 <body>
   <h1>Hello World!</h1>
